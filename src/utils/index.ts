@@ -1,4 +1,4 @@
-import connect from "./connections";
+import connect from "./connection";
 import listenEvents from "./events";
 
 export {
